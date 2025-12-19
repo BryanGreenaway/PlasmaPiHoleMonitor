@@ -17,7 +17,7 @@ KDE Plasma 6 widget for monitoring and controlling Pi-hole DNS blocker.
 
 - KDE Plasma 6
 - Pi-hole v5 or v6
-- Pi-hole App Password (v6) or API Token (v5)
+- Pi-hole App Password (v6)
 
 ## Installation
 
@@ -125,7 +125,7 @@ tar -czf pihole-plasma-widget.tar.gz pihole-widget/ install-widget.sh README.md
 
 ## License
 
-MIT License - See LICENSE file for details
+GPL-3 License - See LICENSE file for details
 
 ## Authors
 
