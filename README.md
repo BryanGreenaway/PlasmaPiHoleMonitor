@@ -15,9 +15,9 @@ KDE Plasma 6 widget for monitoring and controlling Pi-hole DNS blocker.
 
 ## Requirements
 
-- KDE Plasma 6
-- Pi-hole v5 or v6
-- Pi-hole App Password (v6)
+- KDE Plasma 6+
+- Pi-hole v6+
+- Pi-hole App Password
 
 ## Installation
 
