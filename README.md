@@ -8,7 +8,7 @@ KDE Plasma 6 widget for monitoring and controlling Pi-hole DNS blocker.
 - Quick enable/disable controls
 - Temporary disable with preset durations (10s, 30s, 5m, 10m, 30m)
 - Automatic status updates
-- Support for Pi-hole v5 and v6
+- Support for Pi-hole v6
 - Compact panel view and expanded full view
 - Countdown timer display
 - Auto-refresh when timer expires
