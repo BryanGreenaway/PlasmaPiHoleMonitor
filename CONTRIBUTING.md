@@ -98,7 +98,7 @@ pihole-plasma-widget/
 ├── org.kde.plasma.pihole/          # Widget source
 │   ├── contents/
 │   │   ├── code/
-│   │   │   └── pihole.js           # API client (Pi-hole v5 & v6)
+│   │   │   └── pihole.js           # API client (Pi-hole v6)
 │   │   ├── config/
 │   │   │   └── main.xml            # Configuration schema
 │   │   └── ui/
@@ -131,7 +131,7 @@ disown
 #### API Changes (JavaScript)
 
 Edit `org.kde.plasma.pihole/contents/code/pihole.js`:
-- Handles both Pi-hole v5 and v6 APIs
+- Handles both Pi-hole v6 APIs
 - Session management for v6
 - Error handling
 
@@ -143,7 +143,7 @@ Edit `org.kde.plasma.pihole/contents/config/main.xml`:
 
 ### Testing
 
-1. **Test with Pi-hole v5 and v6** if possible
+1. **Test with Pi-hole v6** if possible
 2. **Test all features:**
    - Status monitoring
    - Enable/Disable
@@ -231,4 +231,4 @@ Contributors will be recognized in:
 - README.md credits section
 - GitHub contributors page
 
-Thank you for contributing! 🎉
+Thank you for contributing! 
