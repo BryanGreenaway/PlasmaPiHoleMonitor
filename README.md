@@ -1,4 +1,4 @@
-# Pi-hole Plasma Widget
+# Plasma Pi-hole Monitor
 
 KDE Plasma 6 widget for monitoring and controlling Pi-hole DNS blocker.
 
